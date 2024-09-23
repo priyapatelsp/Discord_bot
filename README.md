@@ -31,6 +31,14 @@ List to function in bot :
 4.  `!add <link>` 
 <br>
 
+Example :
+<img width="771" alt="Unix Command line tool cat" src="https://github.com/user-attachments/assets/6af10cab-56d6-4541-aa0b-7d85b3902e24">
+<img width="748" alt="authoritative nameserver chain  Often they are" src="https://github.com/user-attachments/assets/7537cec3-eb86-4782-950a-ef65d4986a1a">
+<img width="758" alt="Added new challenge Build Your Own DNS Forwarder  Coding Challenges -" src="https://github.com/user-attachments/assets/a8a22105-ffcc-4bd0-92cb-3fa74b89d5b6">
+
+
+
+
 <h1>Author</h1><br>
 Priya Patel <br>
 Github : <a href="https://github.com/priyapatelsp">priyapatelsp</a>
